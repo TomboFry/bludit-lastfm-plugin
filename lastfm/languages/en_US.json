@@ -1,0 +1,16 @@
+{
+	"plugin-data":
+	{
+		"name": "Last.FM Widget",
+		"description": "Lists your top plays, most recent plays, or loved songs on the sidebar"
+	},
+	"lastfm-username": "Last.FM Username",
+	"last-7-days": "Last 7 Days",
+	"last-30-days": "Last 30 Days",
+	"last-90-days": "Last 90 Days",
+	"last-180-days": "Last 180 Days",
+	"last-365-days": "Last 365 Days",
+	"time-label": "Time Period",
+	"count-label": "No. of Songs",
+	"count-warning": "Must be a number, and no higher than 50"
+}
